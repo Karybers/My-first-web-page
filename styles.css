@@ -51,11 +51,15 @@ nav a:hover {
     transform: translate(50%, -50vh);
 }
 
+.start-section article {
+    height: 50vh;
+}
+
 .aboutus-article {
     display: flex;
     margin: auto;
     color: #111111;
-    width: 90%;
+    width: 70%;
 }
 .aboutus-container {
     width: 30%;
@@ -65,7 +69,8 @@ nav a:hover {
     font-size: 35px;
 }
 .aboutus-image {
-    width: 30%;
+    width: 50%;
+    height: 100%;
     margin: auto;
 }
 
